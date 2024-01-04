@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eJam256
+- 👋 Hi, I’m @eJam256 (Jamie)
 - 👀 I’m interested in sports data and anlytics
 - 🌱 I’m currently learning Java and R
 - 💞️ I’m looking to collaborate on hockey data
